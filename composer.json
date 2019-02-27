@@ -1,15 +1,15 @@
 {
-    "name": "greenfieldtech-nirs/phpari",
+    "name": "12Oleg21/phpari",
     "type": "library",
     "description": "A PHP Class Library for Asterisk ARI",
     "keywords": ["Asterisk", "ARI", "VoIP", "REST", "PHP"],
-    "homepage": "https://github.com/greenfieldtech-nirs/phpari",
+    "homepage": "https://github.com/12Oleg21/phpari",
     "license": "GPL-2.0",
     "authors": [
         {
-            "name": "Nir Simionovich",
-            "email": "nir.simionovich@gmail.com",
-            "homepage": "http://www.simionovich.com",
+            "name": "Oleg",
+            "email": "oleg.timoshenko@mbae-it.com",
+            "homepage": "https://github.com/12Oleg21",
             "role": "Packager"
         }
     ],
